@@ -1,0 +1,14 @@
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\bin\Debug\notebook1.0.exe.config
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\bin\Debug\notebook1.0.exe
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\bin\Debug\notebook1.0.pdb
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0.csprojResolveAssemblyReference.cache
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\MainWindow.g.cs
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\App.g.cs
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0_MarkupCompile.cache
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0_MarkupCompile.lref
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\MainWindow.baml
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0.g.resources
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1._0.Properties.Resources.resources
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0.csproj.GenerateResource.Cache
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0.exe
+C:\Users\w401\Documents\git\notebook1.0\notebook1.0\obj\Debug\notebook1.0.pdb
